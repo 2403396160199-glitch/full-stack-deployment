@@ -1,0 +1,22 @@
+const products = [
+  {
+    id: 1,
+    title: 'Wireless Headphones',
+    price: 59.99,
+    image: 'https://picsum.photos/300?1'
+  },
+  {
+    id: 2,
+    title: 'Smart Watch',
+    price: 89.99,
+    image: 'https://picsum.photos/300?2'
+  },
+  {
+    id: 3,
+    title: 'Gaming Mouse',
+    price: 39.99,
+    image: 'https://picsum.photos/300?3'
+  }
+]
+
+export default products
