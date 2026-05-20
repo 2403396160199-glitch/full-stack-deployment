@@ -1,6 +1,6 @@
 # full-stack-deployment
 
-# ShopSphere Ecommerce
+## ShopSphere Ecommerce
 
 Modern ecommerce product catalog built with React + Vite.
 
